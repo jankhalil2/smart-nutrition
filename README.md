@@ -3,7 +3,7 @@
 Smart Nutrition is a web-based system that helps users track and manage their nutritional intake efficiently. It is built with **Node.js** for the backend and **MySQL** for the database.
 
 ## Features
-- User authentication and profile management
+- User authentication and git bprofile management
 - Food database with nutritional information
 - Meal tracking and calorie calculation
 - Personalized nutrition recommendations
@@ -20,7 +20,7 @@ Smart Nutrition is a web-based system that helps users track and manage their nu
 ### Prerequisites
 Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
-- [MySQL](https://www.mysql.com/)
+- [mongodb](https://www.mongodb.com/)
 
 ### Setup
 1. Clone the repository:
