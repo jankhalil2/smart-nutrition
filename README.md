@@ -18,7 +18,8 @@ Smart Nutrition is a web-based system that helps users track and manage their nu
 ## Installation
 
 ### Prerequisites
-Ensure you have the following installed:
+ installed:\
+
 - [Node.js](https://nodejs.org/)
 - [mongodb](https://www.mongodb.com/)
 
